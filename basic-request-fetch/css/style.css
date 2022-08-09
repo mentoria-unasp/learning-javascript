@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .container{
+    margin: 0 auto;
+    display:flex;
+    flex-wrap: wrap;
+  }
+  
+  .posts{
+         width: 300px;
+      padding: 10px 11px;
+      box-shadow: 3px 5px 4px #ccc;
+    margin: 19px 22px;
+  }
+  
+  .posts a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  
+  .posts h2{
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+  }
